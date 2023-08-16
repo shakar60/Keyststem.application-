@@ -1,5 +1,5 @@
 local Lib =loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/KeySystem2Lib/main/Lib.lua"))()
-Lib.Application = "USH"	 		-- <str>
+Lib.Application = "https://rekonise.com/key-system-ir3nv"	 		-- <str>
 Lib.Tittle = "Copy Link To Load USH" 			-- <str>
 Lib.Description = ""	   	-- <str>
 Lib.Logo = nil 						-- <str | none>
